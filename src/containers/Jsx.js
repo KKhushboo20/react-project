@@ -1,4 +1,4 @@
-let name='Raj';
+let name='Khushboo';
 function CheckEvenOrOdd(char){
     if(num % 2 === 0){
         return <div>Even</div>
